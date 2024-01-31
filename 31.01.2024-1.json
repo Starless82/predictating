@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Jackson",
+    "age": 11,
+    "address": {
+        "street": "Pierce Extension",
+        "city": "Mullinston",
+        "state": "Tennessee",
+        "zip": "99131"
+    },
+    "contact": {
+        "phone": "469.688.1610x0644",
+        "servicePhone": "800070867"
+    },
+    "birthday": "2014-15-04",
+    "ip": "154.73.143.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward piece pass true send work identify. Player recognize area practice life certain. Wonder accept attorney great laugh.",
+        "bio": "Address ball recognize test unit sign natural. It lot two effect pattern morning. Thousand skin simply whose."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
