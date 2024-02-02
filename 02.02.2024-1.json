@@ -1,0 +1,25 @@
+{
+    "name": "Emily Holmes",
+    "age": 69,
+    "address": {
+        "street": "Curry Route",
+        "city": "Jasonborough",
+        "state": "Maine",
+        "zip": "82424"
+    },
+    "contact": {
+        "phone": "881.978.1925x053",
+        "servicePhone": "800818992"
+    },
+    "birthday": "1956-25-02",
+    "ip": "175.80.214.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Inside hold identify bag check key practice. Day tell government government despite however. Of say keep break few.",
+        "bio": "Maintain office relate soldier their list into better. Vote fish machine. Also develop race call deal serve discover."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
