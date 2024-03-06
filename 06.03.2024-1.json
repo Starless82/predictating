@@ -1,0 +1,25 @@
+{
+    "name": "Frank Martinez",
+    "age": 94,
+    "address": {
+        "street": "Johnny Cove",
+        "city": "New Amandaton",
+        "state": "Minnesota",
+        "zip": "33275"
+    },
+    "contact": {
+        "phone": "730-950-1613x431",
+        "servicePhone": "800358452"
+    },
+    "birthday": "1931-30-03",
+    "ip": "134.13.254.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Process imagine world thousand. Cold personal because factor learn management. Reveal feel raise north write.\nFinal middle community wear. Effect result with rock maybe gas.",
+        "bio": "After design suggest window lay public. Oil camera this yes admit ask health course. Themselves season name expect land country."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
