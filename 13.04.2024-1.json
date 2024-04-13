@@ -1,0 +1,25 @@
+{
+    "name": "Eileen Frazier",
+    "age": 102,
+    "address": {
+        "street": "Linda Inlet",
+        "city": "West Coryville",
+        "state": "Alabama",
+        "zip": "83707"
+    },
+    "contact": {
+        "phone": "+1-289-775-3233x13928",
+        "servicePhone": "800288627"
+    },
+    "birthday": "1923-16-03",
+    "ip": "210.120.176.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager ahead position. During time cut send adult evidence.\nConference because dark current need executive several. Lawyer surface action scientist hear too stay.",
+        "bio": "Own bar agency government people job. Seem rule fine just out. Interesting trade maybe prepare.\nYear world learn. Culture find family whose check benefit."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
