@@ -1,0 +1,25 @@
+{
+    "name": "Jimmy Flores",
+    "age": 110,
+    "address": {
+        "street": "Lewis Land",
+        "city": "Michaelside",
+        "state": "California",
+        "zip": "92628"
+    },
+    "contact": {
+        "phone": "(368)265-4955",
+        "servicePhone": "800629456"
+    },
+    "birthday": "1915-11-12",
+    "ip": "50.198.108.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Happen will themselves subject majority party shake. Role test candidate. Pull walk cell nice.\nCut suffer start beat senior doctor security. Officer picture least.",
+        "bio": "Education no now hard environment. Medical sing sing rate process add quickly. Take him understand color."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
