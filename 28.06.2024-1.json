@@ -1,0 +1,25 @@
+{
+    "name": "James Adams",
+    "age": 63,
+    "address": {
+        "street": "Gary Drive",
+        "city": "Geraldview",
+        "state": "Louisiana",
+        "zip": "44801"
+    },
+    "contact": {
+        "phone": "430.873.5535x1967",
+        "servicePhone": "800180145"
+    },
+    "birthday": "1962-07-12",
+    "ip": "163.156.147.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Economic last on exist issue. Free determine someone order. Inside nation vote sure chance nice opportunity.\nBegin kid show serve political million campaign. Benefit sell more arrive.",
+        "bio": "Once world must create health.\nMay officer forward short so course I. Bar Democrat as two south too change."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
