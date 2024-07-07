@@ -1,0 +1,25 @@
+{
+    "name": "Michael Huffman",
+    "age": 60,
+    "address": {
+        "street": "Ryan Knoll",
+        "city": "Gouldmouth",
+        "state": "Connecticut",
+        "zip": "97282"
+    },
+    "contact": {
+        "phone": "001-621-982-6610x72073",
+        "servicePhone": "800925221"
+    },
+    "birthday": "1965-25-05",
+    "ip": "68.1.135.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Range become certainly. Rest modern way president study detail. Different western responsibility watch rather customer. Beat the tend sit born have season.",
+        "bio": "Necessary defense cover. Car Congress action pressure western.\nMachine probably anyone important candidate another.\nNotice do another way law expert. Position public certain pretty just."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
