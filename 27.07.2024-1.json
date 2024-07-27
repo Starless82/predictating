@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Mason",
+    "age": 25,
+    "address": {
+        "street": "Snyder Neck",
+        "city": "Port Thomasport",
+        "state": "Utah",
+        "zip": "66832"
+    },
+    "contact": {
+        "phone": "876-338-0139",
+        "servicePhone": "800642993"
+    },
+    "birthday": "2000-11-03",
+    "ip": "206.148.150.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Source require fast billion. Option mind try item every her tough. Garden clearly she family future white. Military evidence voice assume.\nI window high. Build tend since finish possible still.",
+        "bio": "Forward require truth great draw PM owner. Travel once try end beat. Thought her kid involve above small yes.\nWithin benefit little item office."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
