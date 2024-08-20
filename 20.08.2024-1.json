@@ -1,0 +1,25 @@
+{
+    "name": "Shirley Baker MD",
+    "age": 106,
+    "address": {
+        "street": "Michelle Row",
+        "city": "Port Kenneth",
+        "state": "Kentucky",
+        "zip": "27510"
+    },
+    "contact": {
+        "phone": "660-810-8399",
+        "servicePhone": "800183507"
+    },
+    "birthday": "1919-11-02",
+    "ip": "66.172.194.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture there certainly seven arrive forget. Miss apply tend cultural seven movement.",
+        "bio": "Behind need wish source term do space. Serious skill return such. Fund idea heart.\nHead mean agent. Work job each north open claim.\nIdea new then religious away similar."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
