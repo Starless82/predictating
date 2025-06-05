@@ -1,0 +1,25 @@
+{
+    "name": "Erica Johnson",
+    "age": 110,
+    "address": {
+        "street": "Friedman Grove",
+        "city": "Brownville",
+        "state": "California",
+        "zip": "93230"
+    },
+    "contact": {
+        "phone": "214.666.2262",
+        "servicePhone": "800616339"
+    },
+    "birthday": "1915-19-10",
+    "ip": "93.4.5.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire place four company real find not. Until cut growth wife forward add box. Bill those expect notice head.\nQuickly my true inside make item boy. Raise well cultural.",
+        "bio": "Enough eight range. Study look either account for score PM. Return nice hit sport.\nFamily lawyer sea. Significant road leave artist.\nBook too room. Animal term cause spring."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
