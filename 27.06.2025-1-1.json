@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Carrillo",
+    "age": 66,
+    "address": {
+        "street": "Clark Manor",
+        "city": "Alejandroview",
+        "state": "Arizona",
+        "zip": "25186"
+    },
+    "contact": {
+        "phone": "972.290.3983x2585",
+        "servicePhone": "800044582"
+    },
+    "birthday": "1959-12-12",
+    "ip": "95.77.120.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor hold activity important score. Image Congress why whom. Director all also pressure south building.\nSay drug as. Drug have couple why body. Actually quite make eye ever bag suddenly.",
+        "bio": "Other could either make health Mrs room. Defense behavior man him. Bank art model tough capital.\nOffer part son."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
