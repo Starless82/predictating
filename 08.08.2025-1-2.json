@@ -1,0 +1,25 @@
+{
+    "name": "Penny Bird",
+    "age": 49,
+    "address": {
+        "street": "Preston Viaduct",
+        "city": "Lake Carolmouth",
+        "state": "California",
+        "zip": "29433"
+    },
+    "contact": {
+        "phone": "001-782-292-3412",
+        "servicePhone": "800320227"
+    },
+    "birthday": "1976-14-06",
+    "ip": "80.186.174.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute play around east become. Choose meeting shoulder two son degree. Go goal impact these generation likely.",
+        "bio": "Song choice at produce. By offer western start.\nFull next physical although role. Ground reflect red I news energy allow. Treatment back change lead involve response often."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
