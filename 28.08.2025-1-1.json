@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Mcintyre",
+    "age": 72,
+    "address": {
+        "street": "Bauer Ranch",
+        "city": "Scottborough",
+        "state": "Pennsylvania",
+        "zip": "51667"
+    },
+    "contact": {
+        "phone": "(613)339-7929",
+        "servicePhone": "800153702"
+    },
+    "birthday": "1953-24-02",
+    "ip": "54.109.158.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory tree value participant. Wind democratic hear over avoid traditional.\nBuilding usually expert week also camera wrong. Economy always control would.",
+        "bio": "Those three hotel who. Control night yes answer cost.\nSome meet amount consider use two.\nAppear create help seat character behind low."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
