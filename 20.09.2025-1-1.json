@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Clark",
+    "age": 9,
+    "address": {
+        "street": "Carol Path",
+        "city": "Tiffanyfurt",
+        "state": "Wisconsin",
+        "zip": "26430"
+    },
+    "contact": {
+        "phone": "(749)772-6017x94757",
+        "servicePhone": "800987346"
+    },
+    "birthday": "2016-24-09",
+    "ip": "66.186.194.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Hit heavy agree. Behind art down.\nOk allow stuff institution red production. Page me apply cup next. Teach use then care.",
+        "bio": "Describe call loss little because time term. Become physical century case apply free same.\nClass type soldier occur from. Sing down cost theory. Treat business just black left spring culture two."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
