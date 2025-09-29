@@ -1,0 +1,25 @@
+{
+    "name": "Charles Murray",
+    "age": 9,
+    "address": {
+        "street": "Courtney Highway",
+        "city": "North Lisabury",
+        "state": "Kansas",
+        "zip": "57138"
+    },
+    "contact": {
+        "phone": "986.741.8346x27999",
+        "servicePhone": "800576448"
+    },
+    "birthday": "2016-12-02",
+    "ip": "133.214.197.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw factor have research determine smile actually.\nTwo spend enough successful catch. Card you defense step. Position strong live card able market himself.",
+        "bio": "Public form animal past. Field bag improve attorney black garden hotel. Tell relationship student before audience of. Attack authority fire into start.\nDemocrat meet half. Feeling within best."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
