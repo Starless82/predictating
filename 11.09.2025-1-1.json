@@ -1,0 +1,25 @@
+{
+    "name": "Martha Day",
+    "age": 19,
+    "address": {
+        "street": "Lewis Valleys",
+        "city": "South Christopher",
+        "state": "North Dakota",
+        "zip": "51059"
+    },
+    "contact": {
+        "phone": "454-904-8065x42678",
+        "servicePhone": "800058541"
+    },
+    "birthday": "2006-16-01",
+    "ip": "18.195.161.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch southern note above information evidence.",
+        "bio": "Manage whom kitchen knowledge main state then within. Then not Mrs couple.\nSmile reduce clear production significant. Same amount probably interview."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
