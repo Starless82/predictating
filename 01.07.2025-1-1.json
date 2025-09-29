@@ -1,0 +1,25 @@
+{
+    "name": "Jason Figueroa",
+    "age": 13,
+    "address": {
+        "street": "Morris Terrace",
+        "city": "South Lisahaven",
+        "state": "Texas",
+        "zip": "62091"
+    },
+    "contact": {
+        "phone": "001-733-437-5368x5861",
+        "servicePhone": "800705569"
+    },
+    "birthday": "2012-01-07",
+    "ip": "147.142.223.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Term simply organization thought. Your go raise hope Mrs every.\nSea tonight over local. Positive since thought summer. Travel able idea sing answer necessary instead.",
+        "bio": "Behind resource wall Democrat still one.\nDeal condition business wear field. Receive artist major situation. Foreign south worker laugh green present."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
