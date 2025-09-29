@@ -1,0 +1,25 @@
+{
+    "name": "Emily Yang",
+    "age": 107,
+    "address": {
+        "street": "Kyle Wells",
+        "city": "Port Anthonybury",
+        "state": "Texas",
+        "zip": "77628"
+    },
+    "contact": {
+        "phone": "(476)306-8562x3702",
+        "servicePhone": "800115909"
+    },
+    "birthday": "1918-30-01",
+    "ip": "169.141.148.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry big discover too brother difficult. Reduce media head from. Movie enjoy account attack region rich rock.\nInstead per economy though really tell form. Far cup use receive.",
+        "bio": "Story other should test rock. Key culture ball blood former community American. State participant people low democratic visit model."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
