@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Chambers",
+    "age": 48,
+    "address": {
+        "street": "Campos Rapids",
+        "city": "Romeroburgh",
+        "state": "Illinois",
+        "zip": "84588"
+    },
+    "contact": {
+        "phone": "+1-229-697-5709x212",
+        "servicePhone": "800571104"
+    },
+    "birthday": "1977-10-05",
+    "ip": "50.48.3.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Sister common party economy. Several store believe than. Four two dog material customer. Son power but.\nRest house enjoy travel idea high effect hold. Approach fight night month live.",
+        "bio": "Light feeling ability. Step three stay. Effect bar culture long ability produce."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
