@@ -1,0 +1,25 @@
+{
+    "name": "Anna Garcia",
+    "age": 87,
+    "address": {
+        "street": "Ashley Roads",
+        "city": "West Jenna",
+        "state": "Georgia",
+        "zip": "25562"
+    },
+    "contact": {
+        "phone": "(335)612-1589x2373",
+        "servicePhone": "800045510"
+    },
+    "birthday": "1938-01-04",
+    "ip": "124.65.51.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Mouth know culture professor certain else none. History sister decade check live receive bill. Within eat international.\nReligious likely Congress. Above type leg method.\nUnit such vote air marriage.",
+        "bio": "Write else both the religious field military statement. Challenge meeting rise leader part mind interview. Black recent military blood mouth positive who."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}

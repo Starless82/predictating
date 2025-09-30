@@ -1,0 +1,25 @@
+{
+    "name": "Keith Bailey",
+    "age": 61,
+    "address": {
+        "street": "Jay Cliffs",
+        "city": "Port Jenniferstad",
+        "state": "Minnesota",
+        "zip": "56523"
+    },
+    "contact": {
+        "phone": "741-432-9963x25606",
+        "servicePhone": "800589803"
+    },
+    "birthday": "1964-06-11",
+    "ip": "216.136.56.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Question state fill establish enjoy myself rather. Catch spend body.\nSing ago describe especially weight pass provide yeah. Hard save reflect nice less area interest.",
+        "bio": "Mind thousand account along similar. Plan network including century your too fire. If environmental check system either."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
