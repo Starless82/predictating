@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Richardson",
+    "age": 92,
+    "address": {
+        "street": "Derek Row",
+        "city": "Amandafurt",
+        "state": "Indiana",
+        "zip": "04192"
+    },
+    "contact": {
+        "phone": "994.899.2114",
+        "servicePhone": "800519965"
+    },
+    "birthday": "1933-03-11",
+    "ip": "51.160.48.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Candidate policy contain. Week enjoy face. Reveal character organization state sea past authority.",
+        "bio": "Improve help our answer well old. Low hot us majority inside. Edge right loss behind become let.\nLose race anyone race member age become. Eat street dog study mother agent sure."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
