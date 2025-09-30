@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Salinas",
+    "age": 26,
+    "address": {
+        "street": "Thompson Mount",
+        "city": "Jeffreyfurt",
+        "state": "Idaho",
+        "zip": "17794"
+    },
+    "contact": {
+        "phone": "689-931-4707x0718",
+        "servicePhone": "800323140"
+    },
+    "birthday": "1999-19-07",
+    "ip": "135.140.34.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Development happen federal ask. Side next identify event.\nWhatever whom authority another run recognize yourself. Do upon name white manage.",
+        "bio": "Senior family seek must recognize.\nClear for life since technology public respond. Religious box sure history. Indicate control senior heavy."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
