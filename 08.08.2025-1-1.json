@@ -1,0 +1,25 @@
+{
+    "name": "Roberta Warner",
+    "age": 112,
+    "address": {
+        "street": "Howard Well",
+        "city": "Williamsbury",
+        "state": "California",
+        "zip": "68129"
+    },
+    "contact": {
+        "phone": "(678)475-1530",
+        "servicePhone": "800626288"
+    },
+    "birthday": "1913-09-07",
+    "ip": "76.68.57.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk manage will perform practice. Back back fly crime have might prove.\nUse certain letter hold include. Right white majority.\nWait sure behind director. Account structure third.",
+        "bio": "Very so quickly memory order easy music will. Of picture report thought."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
