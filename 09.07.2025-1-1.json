@@ -1,0 +1,25 @@
+{
+    "name": "William Gonzalez",
+    "age": 108,
+    "address": {
+        "street": "Terrell Throughway",
+        "city": "Lake Carlville",
+        "state": "Maine",
+        "zip": "77545"
+    },
+    "contact": {
+        "phone": "(474)289-6866",
+        "servicePhone": "800650354"
+    },
+    "birthday": "1917-21-01",
+    "ip": "106.7.233.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Else win apply pretty by treatment time. Radio technology history answer assume business.",
+        "bio": "Room find something have detail avoid all. Exist successful just happy. Official consider understand create take."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}

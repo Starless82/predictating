@@ -1,0 +1,25 @@
+{
+    "name": "Ross Williams",
+    "age": 52,
+    "address": {
+        "street": "Sandra Mews",
+        "city": "Davidside",
+        "state": "Massachusetts",
+        "zip": "99154"
+    },
+    "contact": {
+        "phone": "402-245-2103x939",
+        "servicePhone": "800416799"
+    },
+    "birthday": "1973-26-04",
+    "ip": "210.205.110.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup worry green dinner process human answer. Soldier information role it offer hold. Conference level wonder where year production.",
+        "bio": "Gun determine hospital. You major surface over before base individual.\nSeveral large reveal day eight instead suddenly. Carry buy see become environmental."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
