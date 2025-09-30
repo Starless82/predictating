@@ -1,0 +1,25 @@
+{
+    "name": "Cameron Cox",
+    "age": 59,
+    "address": {
+        "street": "Mark Shoals",
+        "city": "East Brian",
+        "state": "Arkansas",
+        "zip": "09940"
+    },
+    "contact": {
+        "phone": "978-922-2633x33931",
+        "servicePhone": "800204594"
+    },
+    "birthday": "1966-14-08",
+    "ip": "64.175.41.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Outside democratic commercial key again raise point.\nTv improve green great. Next population chair I.",
+        "bio": "Occur study political model. President offer local coach. Parent effect dream hold approach bill.\nEffect boy will though administration father food purpose. Check front key beat."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}

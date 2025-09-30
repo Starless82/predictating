@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Flores",
+    "age": 69,
+    "address": {
+        "street": "Brandy Mill",
+        "city": "Kennethtown",
+        "state": "West Virginia",
+        "zip": "91927"
+    },
+    "contact": {
+        "phone": "646-463-4757x48243",
+        "servicePhone": "800902640"
+    },
+    "birthday": "1956-25-12",
+    "ip": "182.109.57.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow sense white charge own hotel.\nPressure traditional its anyone alone clearly. Interview production care issue item ready turn. That card along.",
+        "bio": "Business throw above safe most part create. Learn amount boy court country strong.\nBad star senior whole break figure. Many pass base rich."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
