@@ -1,0 +1,25 @@
+{
+    "name": "Dr. George Lamb",
+    "age": 113,
+    "address": {
+        "street": "Parks Pass",
+        "city": "Shannonmouth",
+        "state": "Oregon",
+        "zip": "17578"
+    },
+    "contact": {
+        "phone": "912-990-0137x31335",
+        "servicePhone": "800142925"
+    },
+    "birthday": "1912-20-02",
+    "ip": "47.124.94.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim seven picture manager face boy. Turn computer need religious cell.\nPage speech explain himself. Behind local not subject particularly range describe. A form employee enjoy.",
+        "bio": "Investment treatment anyone this lay threat. Skin several push black then idea small. Among maintain whole star four serve fire."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}

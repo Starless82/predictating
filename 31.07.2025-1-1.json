@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Brooks",
+    "age": 18,
+    "address": {
+        "street": "Smith Glen",
+        "city": "Lauratown",
+        "state": "Montana",
+        "zip": "52125"
+    },
+    "contact": {
+        "phone": "+1-889-660-5198x746",
+        "servicePhone": "800981821"
+    },
+    "birthday": "2007-17-09",
+    "ip": "113.224.160.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair pull career sign customer film lead sound. Represent cold important form treat police father.",
+        "bio": "History most able relationship down short. Cut local evidence front great find require. Outside past southern executive beat."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
