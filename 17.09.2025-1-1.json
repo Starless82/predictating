@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Mckinney",
+    "age": 47,
+    "address": {
+        "street": "Scott Shore",
+        "city": "Joshuaview",
+        "state": "New Mexico",
+        "zip": "78028"
+    },
+    "contact": {
+        "phone": "979.621.9880",
+        "servicePhone": "800928158"
+    },
+    "birthday": "1978-05-08",
+    "ip": "80.165.150.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Lot discover soldier. Site even up ground expert blue yes. Perhaps feel describe Republican than sense help card.\nElection direction manager at memory door. Name exist free even.",
+        "bio": "Likely ask for increase may him plan. Season whose suddenly science suddenly college each role.\nCourt according factor including address man."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}

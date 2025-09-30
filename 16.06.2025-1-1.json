@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Johnson",
+    "age": 113,
+    "address": {
+        "street": "Johnson Field",
+        "city": "East Thomasburgh",
+        "state": "Vermont",
+        "zip": "29445"
+    },
+    "contact": {
+        "phone": "745.565.3474x42523",
+        "servicePhone": "800494796"
+    },
+    "birthday": "1912-23-01",
+    "ip": "53.168.74.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Ten shake action natural eat. Final for hard explain expect them method.\nTurn arrive why country much. Second trip who effort.",
+        "bio": "Head play itself enough wall. Really hundred only. Doctor score involve often wish add me.\nWithout drug how all debate author."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}

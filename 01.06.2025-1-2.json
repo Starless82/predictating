@@ -1,0 +1,25 @@
+{
+    "name": "Amber Price",
+    "age": 65,
+    "address": {
+        "street": "William Square",
+        "city": "Estestown",
+        "state": "Mississippi",
+        "zip": "91558"
+    },
+    "contact": {
+        "phone": "(788)544-5749",
+        "servicePhone": "800642526"
+    },
+    "birthday": "1960-26-04",
+    "ip": "106.106.23.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Stay experience them edge school me wall.\nModel around business. Newspaper our issue one.\nRadio wall sure exist hand main possible. Really people support skill man.",
+        "bio": "Democrat win water them drive. Use deep hot participant article. Sing speak receive deal likely."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
