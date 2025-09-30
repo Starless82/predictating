@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Russell",
+    "age": 14,
+    "address": {
+        "street": "Daniel Place",
+        "city": "Lake Tarabury",
+        "state": "Utah",
+        "zip": "54551"
+    },
+    "contact": {
+        "phone": "(913)246-1793",
+        "servicePhone": "800968776"
+    },
+    "birthday": "2011-21-01",
+    "ip": "195.70.152.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior agency clearly various eat.\nTeach owner eight must mother pull.\nEvidence through chance them them audience him. Thank prepare trial. Able color hand effort his establish.",
+        "bio": "Play each also hour along marriage almost. General decision central population front. Page difference catch song loss."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}

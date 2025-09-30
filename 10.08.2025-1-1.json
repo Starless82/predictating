@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Barnett",
+    "age": 22,
+    "address": {
+        "street": "William Heights",
+        "city": "Phillipshire",
+        "state": "Texas",
+        "zip": "53426"
+    },
+    "contact": {
+        "phone": "(601)711-8032",
+        "servicePhone": "800483406"
+    },
+    "birthday": "2003-03-07",
+    "ip": "94.104.116.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Leg picture purpose movement conference significant. Son how might customer whether. Market staff receive.\nTry structure arm bank point book.",
+        "bio": "Final recent career capital evening box. Add tax high name.\nThe large Mrs television. Front thing more doctor. Team glass school next help."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Brown",
+    "age": 114,
+    "address": {
+        "street": "Sheppard Lodge",
+        "city": "Hutchinsonville",
+        "state": "Virginia",
+        "zip": "67544"
+    },
+    "contact": {
+        "phone": "8034350971",
+        "servicePhone": "800366683"
+    },
+    "birthday": "1911-04-07",
+    "ip": "57.162.40.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Cover specific experience research central.\nHer of idea pay beautiful fire forget southern. Public hundred data look law former.\nPull thank must. Usually election our. Recent election model form.",
+        "bio": "Keep sort build manager threat fish. Have week sometimes. Cell former indeed consider under left."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}

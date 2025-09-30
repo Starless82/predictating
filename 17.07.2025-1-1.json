@@ -1,0 +1,25 @@
+{
+    "name": "Dr. John Gray MD",
+    "age": 37,
+    "address": {
+        "street": "Taylor Port",
+        "city": "North Maureenburgh",
+        "state": "Missouri",
+        "zip": "45189"
+    },
+    "contact": {
+        "phone": "001-591-429-4311",
+        "servicePhone": "800606367"
+    },
+    "birthday": "1988-01-09",
+    "ip": "7.146.216.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother side commercial safe full news usually.\nTotal southern author age trial. Article option success analysis quality future.",
+        "bio": "Despite tough while wind hear up. Almost watch style along. Customer including customer goal the far."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}

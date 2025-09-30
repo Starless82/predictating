@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Campbell",
+    "age": 42,
+    "address": {
+        "street": "Ray Cove",
+        "city": "Port Davidburgh",
+        "state": "Rhode Island",
+        "zip": "07023"
+    },
+    "contact": {
+        "phone": "(528)822-9960x68528",
+        "servicePhone": "800272605"
+    },
+    "birthday": "1983-20-07",
+    "ip": "150.30.139.79",
+    "foo": "bar",
+    "profile": {
+        "about": "Why south image choice week. Article war politics benefit concern blood available ten. Take along summer city bed various.",
+        "bio": "Hear behavior great order us to. Different large beautiful choose national."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}

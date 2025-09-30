@@ -1,0 +1,25 @@
+{
+    "name": "Abigail Gallegos",
+    "age": 82,
+    "address": {
+        "street": "Aaron Prairie",
+        "city": "Valdezville",
+        "state": "Oklahoma",
+        "zip": "22328"
+    },
+    "contact": {
+        "phone": "787.384.8751x820",
+        "servicePhone": "800376897"
+    },
+    "birthday": "1943-15-01",
+    "ip": "97.142.242.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Fast character season military play happen. With different blue shoulder. According me somebody participant.",
+        "bio": "Unit partner question compare election part.\nShow thousand interest wonder avoid although. Figure without term many today.\nAvoid music quickly thousand left great. Learn decision nor capital."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

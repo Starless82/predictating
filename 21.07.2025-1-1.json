@@ -1,0 +1,25 @@
+{
+    "name": "Bryan Watson",
+    "age": 49,
+    "address": {
+        "street": "Tran Dam",
+        "city": "Danielfort",
+        "state": "Hawaii",
+        "zip": "20350"
+    },
+    "contact": {
+        "phone": "727.497.0543x70129",
+        "servicePhone": "800824408"
+    },
+    "birthday": "1976-10-08",
+    "ip": "11.10.7.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Enjoy who wall its. Be many million already everything performance ball almost.\nResource continue throw. Teach good kind somebody. View north later company.\nLine report thus. Hour address Mrs head.",
+        "bio": "Painting challenge firm matter level green industry. Easy him compare send full. Prove computer nature because try red drop."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
