@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Andrew Mays PhD",
+    "age": 2,
+    "address": {
+        "street": "Nicole Roads",
+        "city": "Kathybury",
+        "state": "Idaho",
+        "zip": "52254"
+    },
+    "contact": {
+        "phone": "(688)580-6006x7572",
+        "servicePhone": "800409838"
+    },
+    "birthday": "2023-13-04",
+    "ip": "65.182.123.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk outside wrong summer particularly try Republican. Market economic quite lead sometimes. Follow easy upon loss generation case officer thought.",
+        "bio": "Approach court try stop wonder who. Identify within technology tree. Choose share check form half group trial."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Jill James",
+    "age": 18,
+    "address": {
+        "street": "Nicole Forest",
+        "city": "North Garymouth",
+        "state": "Georgia",
+        "zip": "51302"
+    },
+    "contact": {
+        "phone": "+1-918-588-3271",
+        "servicePhone": "800569358"
+    },
+    "birthday": "2007-30-12",
+    "ip": "219.111.188.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Generation moment doctor others. Since sing upon break. Ever loss attention reveal career. Me team speak.",
+        "bio": "Thousand wide image important. Growth information modern these card. Everybody fact guy.\nPhysical account city with should. Act difficult mother."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
