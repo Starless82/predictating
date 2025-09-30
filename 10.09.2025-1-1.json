@@ -1,0 +1,25 @@
+{
+    "name": "Jodi Bailey",
+    "age": 36,
+    "address": {
+        "street": "Gomez Ports",
+        "city": "Angelastad",
+        "state": "Arkansas",
+        "zip": "88202"
+    },
+    "contact": {
+        "phone": "(900)526-1519x624",
+        "servicePhone": "800481567"
+    },
+    "birthday": "1989-21-10",
+    "ip": "25.239.27.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal arm data you. Sing staff whatever owner technology.",
+        "bio": "Toward white party house speak increase. The around heart across fear budget activity.\nYard through if south skill. Tell phone break young care perhaps."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
