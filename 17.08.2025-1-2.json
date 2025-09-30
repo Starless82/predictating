@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Carlson",
+    "age": 78,
+    "address": {
+        "street": "Elizabeth Overpass",
+        "city": "Matthewview",
+        "state": "Rhode Island",
+        "zip": "96463"
+    },
+    "contact": {
+        "phone": "554.837.8892x571",
+        "servicePhone": "800091963"
+    },
+    "birthday": "1947-29-12",
+    "ip": "17.217.168.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Training fund tree decade think than. Enter enough determine on family fear. Property strong so catch.\nMust science manage. Throw red fund beautiful ever. Stand former not management into.",
+        "bio": "Control thought civil about. American might similar rise often you. Shoulder nature democratic project wish rock. Any performance prove yourself."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
