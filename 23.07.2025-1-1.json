@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Miller",
+    "age": 38,
+    "address": {
+        "street": "James Manors",
+        "city": "West Madeline",
+        "state": "New York",
+        "zip": "02096"
+    },
+    "contact": {
+        "phone": "(650)612-0848",
+        "servicePhone": "800723913"
+    },
+    "birthday": "1987-20-03",
+    "ip": "7.90.166.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Any art ahead war else organization. Yeah impact stock produce Republican data across field. Citizen site sit long edge suddenly open.",
+        "bio": "Build natural represent learn specific direction recently. Yard agreement left get evidence expect.\nResult movie word policy painting return. Blood win audience give end major whom."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
