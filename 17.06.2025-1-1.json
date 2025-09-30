@@ -1,0 +1,25 @@
+{
+    "name": "James Simpson",
+    "age": 61,
+    "address": {
+        "street": "Michael Burgs",
+        "city": "Billyhaven",
+        "state": "Wisconsin",
+        "zip": "53727"
+    },
+    "contact": {
+        "phone": "291-718-5163",
+        "servicePhone": "800428353"
+    },
+    "birthday": "1964-08-03",
+    "ip": "79.167.196.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart sometimes begin. It player despite success.\nReturn purpose wear space be. Edge lose list head watch.\nWhen wife similar case.",
+        "bio": "Become against certain account fly.\nSell market foot traditional. Heavy similar statement face shake her late. Hot them ahead week others three."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
