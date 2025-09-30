@@ -1,0 +1,25 @@
+{
+    "name": "Robert Pitts",
+    "age": 35,
+    "address": {
+        "street": "Klein Avenue",
+        "city": "North Christinaborough",
+        "state": "New Jersey",
+        "zip": "36373"
+    },
+    "contact": {
+        "phone": "001-973-229-9945x47006",
+        "servicePhone": "800478540"
+    },
+    "birthday": "1990-02-05",
+    "ip": "152.218.63.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Page course life these drop ten point. Continue debate peace. Follow collection woman bank past.",
+        "bio": "Often yourself hear. Itself including sell someone finally.\nAvailable almost hair television address require. Most minute form recently operation total."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

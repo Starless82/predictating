@@ -1,0 +1,25 @@
+{
+    "name": "Jason White",
+    "age": 78,
+    "address": {
+        "street": "James Tunnel",
+        "city": "North Philip",
+        "state": "South Carolina",
+        "zip": "19240"
+    },
+    "contact": {
+        "phone": "(232)832-9112",
+        "servicePhone": "800027235"
+    },
+    "birthday": "1947-07-12",
+    "ip": "116.156.117.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen paper number born draw. Though too couple throw exist. Fight edge deep our Mr evening.\nNext break board peace subject. Walk people far size.",
+        "bio": "Maybe fine scientist else.\nMouth wide toward white. Include lawyer example oil throughout fire. Certain news listen million stand. Against law wall religious old.\nPretty interview last."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
