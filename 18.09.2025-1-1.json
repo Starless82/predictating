@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Jackson",
+    "age": 89,
+    "address": {
+        "street": "Hayden Motorway",
+        "city": "Emilybury",
+        "state": "Arizona",
+        "zip": "26449"
+    },
+    "contact": {
+        "phone": "967-320-6755x113",
+        "servicePhone": "800338104"
+    },
+    "birthday": "1936-02-09",
+    "ip": "42.117.247.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Spring live whom prepare itself town teach. Central response soon value its. Great add work.\nNature use bad movement firm trip down issue. Appear choice class build force phone method.",
+        "bio": "Only behind close still office card skin. Force loss moment left security red. Turn traditional catch happen decade they."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}

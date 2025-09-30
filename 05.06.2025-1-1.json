@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Stevens",
+    "age": 49,
+    "address": {
+        "street": "Janet Ridge",
+        "city": "Lake Juliafort",
+        "state": "New Mexico",
+        "zip": "89102"
+    },
+    "contact": {
+        "phone": "+1-736-359-8851x549",
+        "servicePhone": "800848312"
+    },
+    "birthday": "1976-29-12",
+    "ip": "65.188.114.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Room share debate can. Which year evidence relate carry then.\nAlready commercial like name people. Role force piece experience to I body.\nMove place management response lot thank.",
+        "bio": "Actually task choose so. Vote Congress cover Mrs their street natural.\nPublic sound speak stuff data. Art each outside one investment national machine. Economy arrive particularly population past."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}

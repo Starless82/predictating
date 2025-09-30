@@ -1,0 +1,25 @@
+{
+    "name": "Angela Miranda",
+    "age": 44,
+    "address": {
+        "street": "Bridges Motorway",
+        "city": "New Dustinstad",
+        "state": "New Jersey",
+        "zip": "38651"
+    },
+    "contact": {
+        "phone": "732.652.9071x591",
+        "servicePhone": "800983873"
+    },
+    "birthday": "1981-09-09",
+    "ip": "129.197.18.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Measure fire get catch statement adult character. Opportunity leg floor.\nDuring and group yourself. Someone early build. Add relationship size decide catch.\nTheir trip about.",
+        "bio": "Would black hotel wish shoulder guess. Small make true. Off another better enough house both.\nMy want baby today investment blood open society. End federal experience."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
